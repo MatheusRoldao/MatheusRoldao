@@ -1,6 +1,6 @@
 ### Prazer! Eu sou o Matheus Roldao 👋
 
-- 🌱 Estudando Python,c#
+- 🌱 Estudando Javascript,Node Js
 - 📫 Contate-me no email: roldao.matheus@gmail.com
 - 😄 Pronouns: Ele/Dele
 
