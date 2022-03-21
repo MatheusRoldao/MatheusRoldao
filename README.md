@@ -2,7 +2,7 @@
 
 - 🌱 Estudando C# .NET
 - 📫 Contate-me no email: roldao.matheus@gmail.com
-- 😄 Pronouns: Ele/Dele
+
 
 <div>
   <a href="https://github.com/MatheusRoldao">
