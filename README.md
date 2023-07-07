@@ -5,9 +5,9 @@
 
 🚀 Ao longo da minha jornada profissional, tenho me especializado na construção de aplicações robustas e escaláveis, com uma atenção especial ao design de interfaces amigáveis e à experiência do usuário. Meu foco principal está em aproveitar ao máximo as ferramentas , C# e Angular.
 
-🎯 FATEC- ARARAQUARA/SP
-
 ✨ Se você está em busca de um desenvolvedor web dedicado, que possa trazer sua visão para a realidade e entregar resultados excepcionais, estou pronto para enfrentar novos desafios e fazer parte de projetos empolgantes.
+
+🎯 FATEC- ARARAQUARA/SP
 
 - 📫 Contate-me no email: roldao.matheus@gmail.com
 Let's code together! 💪
